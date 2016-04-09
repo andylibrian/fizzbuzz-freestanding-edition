@@ -1,0 +1,8 @@
+The boot and vga code are mostly derived from http://wiki.osdev.org/Bare_Bones
+
+
+The released iso file is built using grub-mkrescue and xorriso.
+The source code can be found at:
+
+- http://packages.ubuntu.com/wily/grub2
+- http://packages.ubuntu.com/wily/xorriso

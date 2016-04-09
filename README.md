@@ -26,7 +26,7 @@ The latest release of FizzBuzz Freestanding Edition can be downloaded at the cen
 
 ## Recommended Minimum System Requirement
 
-To run FizzBuzz Freestanding Edition in a real machine, it should have at least the spec below:
+To run FizzBuzz Freestanding Edition on a real machine, it should have at least the spec below:
 
 1. CPU i386 architecture
 2. 4Mib RAM
@@ -50,3 +50,9 @@ The iso can run on Virtual Machine such as VirtualBox or Qemu.
 
 Please send the security issue to me privately if you find one.
 Non security issue can be reported on github.
+
+## FAQ
+
+Q: Is this version ready for production?
+
+A: No man, this is just a joke. The iso file is actually bootable. Try that on Virtual Box.

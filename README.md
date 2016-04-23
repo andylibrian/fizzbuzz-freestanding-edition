@@ -45,14 +45,3 @@ The iso can run on Virtual Machine such as VirtualBox or Qemu.
 
 - boot loader and vga driver are derived from [http://wiki.osdev.org/Bare_Bones](http://wiki.osdev.org/Bare_Bones)
 - `itoa` implementation by Lukás Chmela
-
-## Reporting Security Issue
-
-Please send the security issue to me privately if you find one.
-Non security issue can be reported on github.
-
-## FAQ
-
-Q: Is this version ready for production?
-
-A: No man, this is just a joke. The iso file is really bootable. Try that on Virtual Box.
